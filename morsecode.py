@@ -298,7 +298,6 @@ def main():
             print(decoding_sentence(user_input))
         elif user_input == '0':
             flag = 0
-            break
         else: print('Wrong Input')
     # ==================================
     print("Good Bye")
